@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sun Dec 15 15:00:30 EET 2024","Sun Dec 15 15:00:52 EET 2024","22329","chromium","Task.spec.js","","","","User can shop on practice software testing",""
+"broken","Sun Dec 15 14:19:41 EET 2024","Sun Dec 15 14:20:11 EET 2024","30025","webkit","Task.spec.js","","","","User can shop on practice software testing",""
+"broken","Sun Dec 15 14:19:41 EET 2024","Sun Dec 15 14:20:11 EET 2024","30033","firefox","Task.spec.js","","","","User can shop on practice software testing",""

@@ -1,0 +1,28 @@
+{ 
+    "url": {
+    "baseURL": "https://practicesoftwaretesting.com/"
+},
+
+    "credentials": {
+      "username": "yassui@gmail.com",
+      "password": "Test@123shat"
+    },
+    
+    "customerDetails": {
+        "firstName": "yassut",
+        "lastName": "Hesham",
+        "DOB": "1993-04-19",
+        "address": "downtown street, fifth settlement",
+        "country": "EGYPT",
+        "city": "Cairo",
+        "state": "Cairo",
+        "countrycode": "EG",
+        "phone": "015555555",
+        "postcode": "11111"
+    },
+    "user": {
+        "name": "yasser",
+        "job": "QA Engineer"
+    }
+}
+  
