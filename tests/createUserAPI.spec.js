@@ -15,9 +15,9 @@ test('Create a new user and validate the response', async ({ request }) => {
   const responseBody = await response.json();
 
   // Validate the response body contains required fields
-  expect(responseBody).toHaveProperty('id'); // Assert that 'id' exists
-  expect(responseBody).toHaveProperty('name', userData.user.name); // Validate 'name' matches
-  expect(responseBody).toHaveProperty('job', userData.user.job);   // Validate 'job' matches
+  expect(responseBody).toHaveProperty('id'); 
+  expect(responseBody).toHaveProperty('name', userData.user.name); 
+  expect(responseBody).toHaveProperty('job', userData.user.job);
 
   // Log the response for debugging purposes
   console.log('Response:', responseBody);
