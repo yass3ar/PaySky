@@ -1,4 +1,4 @@
-// tests/api/createUser.spec.js
+
 const { test, expect } = require('@playwright/test');
 const userData = require('../Data/userData.json');
 
