@@ -1,6 +1,0 @@
-Response: {
-  name: 'yasser',
-  job: 'QA Engineer',
-  id: '275',
-  createdAt: '2024-12-15T15:31:58.693Z'
-}
